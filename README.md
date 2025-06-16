@@ -28,7 +28,7 @@
 
 | 홈 화면 | 감정 선택 | 일기 작성 | 달력 | 설정 화면 | 잠금 화면 |
 |---------|-----------|------------|------------|------------|------------|
-| ![홈 화면 – 추천 노래 및 감정 키워드](images/main.png) | ![감정 선택 – 팝업 형태로 감정 선택](images/feeling.png) | ![일기 작성 – 오늘의 감정을 글로 기록](images/diary.png) | ![달력 – 일기 작성 날짜 확인](images/calendar.png) | ![설정 화면 – 잠금 및 알림 설정](images/settings.png) | ![잠금 화면 – 앱 PIN 잠금 UI](images/app%20unlock.png) |
+| ![홈 화면 – 추천 노래 및 감정 키워드](images/main.png) | ![감정 선택 – 팝업 형태로 감정 선택](images/feeling.png) | ![일기 작성 – 오늘의 감정을 글로 기록](images/diary.png) | ![달력 – 일기 작성 날짜 확인](images/calendar.png) | ![설정 화면 – 잠금 및 알림 설정](images/settings.png) | ![잠금 화면 – 앱 PIN 잠금 UI](images/appunlock.png) |
 
 ---
 
