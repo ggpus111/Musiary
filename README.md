@@ -138,7 +138,7 @@
 
 - Apple Music API (예정)
 - Swift 5 / UIKit / Xcode 15 / iOS 16
-- GitHub, Firebase (추후 연동 예정)
+- GitHub, Firebase 
 
 ---
 
