@@ -3,8 +3,8 @@
 
 > 바쁜 일상 속 감정이 묻히기 쉬운 현대인들이, 짧은 일기 몇 줄로 자신의 감정을 돌아보고 위로받을 수 있도록 제작된 감성 기록 앱
 
-[📎 Musiary 발표 자료 다운로드 (PPTX)](./Musiary_Presentation.pptx)  
-[📎 Musiary 발표 자료 보기 (PDF)](./Musiary_Presentation.pdf)
+[📎 Musiary 소개 자료 다운로드 (PPTX)](./Musiary_Presentation.pptx)  
+[📎 Musiary 소개 자료 보기 (PDF)](./Musiary_Presentation.pdf)
 
 ---
 
